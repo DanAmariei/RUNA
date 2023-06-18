@@ -495,7 +495,7 @@ button.addEventListener('click', (event) => {
     });
 
     resultEl.innerHTML = `
-    <p>paragraph</p>
+    <p>Cod Runic, Note Muzicale</p>
     <p>rune code: ${runaResult}</p>
     <p>${runaNotes.join(' - ')}</p>
     <div>${printSvg(lines)}</div>
